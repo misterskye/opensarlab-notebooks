@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/misterskye/asf-jupyter-notebooks/7168b233b23d02b1c7cb03d97af64e47a0292adb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/misterskye/asf-jupyter-notebooks/binder_SARHazards_Lab_ExploreTimeSeries?filepath=SARHazards_Lab_ExploreTimeSeries.ipynb)
 
 
 # ASF Jupyter Notebooks
